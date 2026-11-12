@@ -45,7 +45,7 @@ Windows overlay panel for **[ROB RUN](https://store.steampowered.com/app/4262460
 |---|---|
 | **ROB RUN PC Tool (42 options)** | [voidtrainer](https://voidtrainer.com/rob-run-cheat) |
 | **Game on Steam** | [ROB RUN — Steam](https://store.steampowered.com/app/4262460/) |
-| **Full Option List** | [See Gist →](https://gist.github.com/CoralSpiritSpade/da5342a1de1f1ea4b1a1730e87e7c85a) |
+| **Full Option List** | [See Gist →](https://gist.github.com/joeyruiz23/4fc0708d96098d1960138ec9dca95bda) |
 
 ---
 
